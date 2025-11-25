@@ -5,6 +5,7 @@
 .header
 {
     background-color:white;
+    size: 100vw;
 }
 .logoimage
 {
@@ -149,7 +150,7 @@ margin-right: 5rem;
     {
         display: none;
     }
-    .logoimage
+    .logo
     {
         display: none;
     }
